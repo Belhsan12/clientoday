@@ -1,1 +1,1 @@
-export defaultfunction App(){return(<div><h3>Hello all the bestie final 0.01</h3></div>)}
+export defaultfunction App(){return(<div><h3>Hello all the bestie final</h3></div>)}
