@@ -1,1 +1,1 @@
-export defaultfunction App(){return(<div><h3>Hello all friends</h3></div>)}
+export defaultfunction App(){return(<div><h3>Hello all friends seconds</h3></div>)}
